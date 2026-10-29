@@ -258,12 +258,9 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-### Zeyad Badawy
+### Arhat Dinkar
 
 **Full-Stack Developer | Software Engineer**
-
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
 
 ---
 
