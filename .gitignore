@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+uploads/
+
+# Local runtime data and generated exports
+studymate.db
+studymate.db-*
+exports/
+.venv/
+.DS_Store
